@@ -1,0 +1,129 @@
+TMirror
+v7
+r0
+t308577767.852585
+cCheck dependencies
+cCompileC build/Mirror.build/Debug/Mirror.build/Objects-normal/i386/main.o /Users/buffpojken/Downloads/Mirror/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/buffpojken/Downloads/Mirror/build/Debug/Mirror normal i386
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B760CC2000000000000449C
+t1266027714
+s17564
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004B760CC40000000000077138
+t1266027716
+s487736
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c00000000486499690000000000000942
+t1214552425
+s2370
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/IOKit.framework/Headers/IOCFPlugIn.h
+c00000000481BC12A00000000000008D0
+t1209778474
+s2256
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/IOKit.framework/Headers/hid/IOHIDKeys.h
+c000000004864AC1C0000000000003730
+t1214557212
+s14128
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/IOKit.framework/Headers/hid/IOHIDLib.h
+c00000000481BC128000000000000060C
+t1209778472
+s1548
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004B760CCB000000000003D498
+t1266027723
+s251032
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/System.framework/System
+c000000004B760CFB00000000000A7600
+t1266027771
+s685568
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/stdio.h
+c0000000047BA99310000000000003D1D
+t1203411249
+s15645
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/sys/time.h
+c0000000047E883D20000000000001E18
+t1206420434
+s7704
+
+N/Users/buffpojken/Downloads/Mirror/build/Debug/Mirror
+t1286884967
+s19564
+
+N/Users/buffpojken/Downloads/Mirror/build/Mirror.build/Debug/Mirror.build/Objects-normal/i386/Mirror.LinkFileList
+c000000004CB44E670000000000000064
+t1286884967
+s100
+
+N/Users/buffpojken/Downloads/Mirror/build/Mirror.build/Debug/Mirror.build/Objects-normal/i386/main.o
+t1286884967
+s20044
+
+N/Users/buffpojken/Downloads/Mirror/main.m
+c000000004A52EDA300000000000014CA
+t1246948771
+s5322
+i<stdio.h>
+i<sys/time.h>
+i<IOKit/IOCFPlugIn.h>
+i<IOKit/hid/IOHIDKeys.h>
+i<IOKit/hid/IOHIDLib.h>
+i<CoreFoundation/CoreFoundation.h>
+i<Cocoa/Cocoa.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308577767#308577767#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Mirror.build/Debug/Mirror.build/Objects-normal/i386/main.o /Users/buffpojken/Downloads/Mirror/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s308577767.153210
+e308577767.755650
+r1
+xCompileC
+xbuild/Mirror.build/Debug/Mirror.build/Objects-normal/i386/main.o
+x/Users/buffpojken/Downloads/Mirror/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/buffpojken/Downloads/Mirror/main.m: In function 'print_time':
+o/Users/buffpojken/Downloads/Mirror/main.m:38: warning: format '%06ld' expects type 'long int', but argument 3 has type '__darwin_suseconds_t'
+o/Users/buffpojken/Downloads/Mirror/main.m: In function 'ReaderReportCallback':
+o/Users/buffpojken/Downloads/Mirror/main.m:63: warning: unused variable 'bit3'
+o/Users/buffpojken/Downloads/Mirror/main.m:62: warning: unused variable 'bit2'
+o/Users/buffpojken/Downloads/Mirror/main.m:60: warning: unused variable 'bit0'
+o/Users/buffpojken/Downloads/Mirror/main.m:45: warning: unused variable 'end'
+o/Users/buffpojken/Downloads/Mirror/main.m: In function 'main':
+o/Users/buffpojken/Downloads/Mirror/main.m:163: warning: passing argument 4 of '(*r->interface)->setInterruptReportHandlerCallback' from incompatible pointer type
+lSLF07#2@49"Compile /Users/buffpojken/Downloads/Mirror/main.m308577767#308577767#0(826"/Users/buffpojken/Downloads/Mirror/main.m: In function 'print_time':/Users/buffpojken/Downloads/Mirror/main.m:38: warning: format '%06ld' expects type 'long int', but argument 3 has type '__darwin_suseconds_t'/Users/buffpojken/Downloads/Mirror/main.m: In function 'ReaderReportCallback':/Users/buffpojken/Downloads/Mirror/main.m:63: warning: unused variable 'bit3'/Users/buffpojken/Downloads/Mirror/main.m:62: warning: unused variable 'bit2'/Users/buffpojken/Downloads/Mirror/main.m:60: warning: unused variable 'bit0'/Users/buffpojken/Downloads/Mirror/main.m:45: warning: unused variable 'end'/Users/buffpojken/Downloads/Mirror/main.m: In function 'main':/Users/buffpojken/Downloads/Mirror/main.m:163: warning: passing argument 4 of '(*r->interface)->setInterruptReportHandlerCallback' from incompatible pointer type6(22@86"Format '%06ld' expects type 'long int', but argument 3 has type '__darwin_suseconds_t'308577767#69#142#0(6@41"/Users/buffpojken/Downloads/Mirror/main.m268641571#38#0#38#0#56"format '*' expects type '*', but argument * has type '*'0(22@22"Unused variable 'bit3'308577767#290#78#0(6@41"/Users/buffpojken/Downloads/Mirror/main.m268641571#63#0#63#0#19"unused variable '*'0(22@22"Unused variable 'bit2'308577767#368#78#0(6@41"/Users/buffpojken/Downloads/Mirror/main.m268641571#62#0#62#0#19"unused variable '*'0(22@22"Unused variable 'bit0'308577767#446#78#0(6@41"/Users/buffpojken/Downloads/Mirror/main.m268641571#60#0#60#0#19"unused variable '*'0(22@21"Unused variable 'end'308577767#524#77#0(6@41"/Users/buffpojken/Downloads/Mirror/main.m268641571#45#0#45#0#19"unused variable '*'0(22@105"Passing argument 4 of '(*r->interface)->setInterruptReportHandlerCallback' from incompatible pointer type308577767#664#162#0(6@41"/Users/buffpojken/Downloads/Mirror/main.m268641571#163#0#163#0#56"passing argument * of '*' from incompatible pointer type0(0#0#41"/Users/buffpojken/Downloads/Mirror/main.m7955997338298103808#1210"    cd /Users/buffpojken/Downloads/Mirror    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/buffpojken/Downloads/Mirror/build/Mirror.build/Debug/Mirror.build/Mirror-generated-files.hmap -I/Users/buffpojken/Downloads/Mirror/build/Mirror.build/Debug/Mirror.build/Mirror-own-target-headers.hmap -I/Users/buffpojken/Downloads/Mirror/build/Mirror.build/Debug/Mirror.build/Mirror-all-target-headers.hmap -iquote /Users/buffpojken/Downloads/Mirror/build/Mirror.build/Debug/Mirror.build/Mirror-project-headers.hmap -F/Users/buffpojken/Downloads/Mirror/build/Debug -I/Users/buffpojken/Downloads/Mirror/build/Debug/include -I/Users/buffpojken/Downloads/Mirror/build/Mirror.build/Debug/Mirror.build/DerivedSources/i386 -I/Users/buffpojken/Downloads/Mirror/build/Mirror.build/Debug/Mirror.build/DerivedSources -c /Users/buffpojken/Downloads/Mirror/main.m -o /Users/buffpojken/Downloads/Mirror/build/Mirror.build/Debug/Mirror.build/Objects-normal/i386/main.o0#
+
+CLd /Users/buffpojken/Downloads/Mirror/build/Debug/Mirror normal i386
+s308577767.755784
+e308577767.852527
+r1
+xLd
+x/Users/buffpojken/Downloads/Mirror/build/Debug/Mirror
+xnormal
+xi386
+lSLF07#2@58"Link /Users/buffpojken/Downloads/Mirror/build/Debug/Mirror308577767#308577767#0(0"0(0#0#0"8603619264#548"    cd /Users/buffpojken/Downloads/Mirror    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/buffpojken/Downloads/Mirror/build/Debug -F/Users/buffpojken/Downloads/Mirror/build/Debug -filelist /Users/buffpojken/Downloads/Mirror/build/Mirror.build/Debug/Mirror.build/Objects-normal/i386/Mirror.LinkFileList -mmacosx-version-min=10.5 -framework CoreFoundation -framework System -framework IOKit -framework Cocoa -o /Users/buffpojken/Downloads/Mirror/build/Debug/Mirror0#
+
